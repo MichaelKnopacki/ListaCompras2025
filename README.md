@@ -33,4 +33,16 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no
 
 Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
 
+## 01. Integrando JavaScript ao projeto
+
+- Usar o Console para testar e executar pequenos trechos de código JavaScript.
+- Utilizar comandos como console.log(), operações matemáticas e criação de variáveis.
+- Adicionar JavaScript diretamente em um projeto HTML usando a tag <script>.
+- Manipular o DOM para acessar e modificar elementos HTML dinamicamente.
+
+## 02. Detectando interacoes
+
+Git: https://github.com/alura-cursos/4299-javascript/tree/aula-01
+
+
 
