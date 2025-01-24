@@ -1,9 +1,10 @@
 const botao = document.getElementById("botao");
-console.log(botao)
-
 const campo = document.getElementById("input");
-campo.addEventListener('mouseover', (evento) => {
-    alert("Teste");
+
+botao.addEventListener("click", () =>{
+    console.log(campo.value);
+    const novo = document.createElement("p");
+    novo.innerHTML = campo.value;
 })
 
-console.log(campo.value);
+// Construa dinamicamente cada item da lista com os valores inseridos pelo usuário.
